@@ -1,0 +1,53 @@
+10/02/2022  11:24 AM                67 octaprint_HP_SSH.bat
+
+ ┌──────────────────────────────────────────────────────────────┐
+ │                     [ INFORMATION MENU ]                     │
+ ├──────────────────────────────────────────────────────────────┤
+ │                                                              │
+ │ •ESSENTIALS:                                                 │
+ │   ✓ Moonraker & Nginx                                        │
+ │   ✗ Fluidd                                                   │
+ │   ✓ Mainsail                                                 │
+ │                                                              │
+ │ •UTILITIES:                                                  │
+ │   ✓ Entware                                                  │
+ │   ✓ Klipper Gcode Shell Command                              │
+ │                                                              │
+ │ •IMPROVEMENTS:                                               │
+ │   ✓ Klipper Adaptive Meshing & Purging                       │
+ │   ✓ Buzzer Support                                           │
+ │   ✗ Nozzle Cleaning Fan Control                              │
+ │   ✗ Fans Control Macros                                      │
+ │   ✓ Improved Shapers Calibrations                            │
+ │   ✓ Useful Macros                                            │
+ │   ✗ Save Z-Offset Macros                                     │
+ │   ✗ Screws Tilt Adjust Support                               │
+ │   ✗ M600 Support                                             │
+ │   ✓ Git Backup                                               │
+ │                                                              │
+ │ •CAMERA:                                                     │
+ │   ✓ Moonraker Timelapse                                      │
+ │   ✗ Camera Settings Control                                  │
+ │   ✗ USB Camera Support                                       │
+ │                                                              │
+ │ •REMOTE ACCESS:                                              │
+ │   ✗ OctoEverywhere                                           │
+ │   ✗ Obico                                                    │
+ │   ✗ GuppyFLO                                                 │
+ │   ✓ Mobileraker Companion                                    │
+ │   ✗ OctoApp Companion                                        │
+ │   ✗ SimplyPrint                                              │
+ │                                                              │
+ │ •CUSTOMIZATION:                                              │
+ │   ✗ Custom Boot Display                                      │
+ │   ✓ Creality Web Interface                                   │
+ │   ✗ Guppy Screen                                             │
+ │   ✗ Creality Dynamic Logos for Fluidd                        │
+ │                                                              │
+ ├──────────────────────────────────────────────────────────────┤
+ │                                                              │
+ │  b) Back to [Main Menu]                                      │
+ │  q) Exit                                                     │
+ │                                                              │
+ │                                                        6.2.0 │
+ └──────────────────────────────────────────────────────────────┘
